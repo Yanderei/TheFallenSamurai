@@ -1,7 +1,7 @@
 # TheFallenSamurai
 Java Tile-Based Game Project using only VS Code
 
-GAME STORYLINE
+GAME STORYLINE:
 The main character, Kenji Inei, a homeless orphan child, was taken in by the Great Master Kusho.
 He dedicated himself to the art of the blade and understanding spiritual tenets, quickly outpacing
 his peers both in combat and study. Even so, he felt overshadowed by another—his master’s son,
@@ -32,7 +32,7 @@ freshly bloodied blade.
 Inspired by: Zed's lore from League of Legends, Tai Lung's lore from Kung Fu Panda, and the
 game, Sekiro: Shadows Die Twice.
 
-GAMEPLAY
+GAMEPLAY:
 The player will control Kenji and use sword attacks to eliminate all demon guards (enemies) in his
 path that come between him and the ornate box. In order to force his way through the path to
 the abandoned temple, the player can move Kenji with the use of the arrow keys and the
